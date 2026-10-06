@@ -21,4 +21,4 @@ The contents here document my training milestones, showing how I apply theoretic
 ---
 
 ## 📂 Repository Structure
-* `Cyber Threat Intelligence Analyst Level III` — Threat hunting reports, threat feeds, and actor matrix write-ups.
+* `Cyber Threat Intelligence Analyst level III` — Threat hunting reports, threat feeds, and actor matrix write-ups.
